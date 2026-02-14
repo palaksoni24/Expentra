@@ -27,13 +27,13 @@ No spreadsheets. No confusion. Just simple, smart expense management.
 
 ## ✨ Features
 
-- 📊 **Visual Dashboard** — Get an instant overview of your income vs. expenses
-- 🗂️ **Category Management** — Organize expenses by categories like Food, Travel, Bills, and more
-- 📅 **Date-wise Filtering** — View expenses by day, week, or month
-- 💰 **Budget Goals** — Set monthly budgets and get alerts when you're close to the limit
-- 📈 **Spending Analytics** — Charts and insights to understand your spending patterns
-- 🌙 **Dark Mode Support** — Easy on the eyes, day or night
-- 🔒 **Secure & Private** — Your data stays yours
+- 📊 **Visual Dashboard** — Get an instant overview of your income vs. expenses.
+- 📈 **Add daily expenses** — Users can add their day to day expenses.
+- 🗂️ **Category Management** — Organize expenses by categories like Food, Travel, Bills, and more.
+- 📅 **Date-wise Filtering** — View expenses by day, week, or month.
+- 💰 **Budget Goals** — Set monthly budgets and get alerts when you're close to the limit.
+- 📈 **Total savings calculations** — Caculate your entire savings at the end.
+- 🔒 **Secure & Private** — Your data stays yours.
 
 ---
 
@@ -48,7 +48,7 @@ No spreadsheets. No confusion. Just simple, smart expense management.
 > *(Update this based on your actual choices)*
 
 - **Frontend:** HTML + CSS + JS
-- **Backend:** Java
+- **Backend:** Java, JDBC & Servlets.
 - **Database:** MySQL
 - **Charts:** Chart.js / Recharts
 
@@ -68,5 +68,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://github.com/YOUR_USERNAME">Palak</a>
+Made with ❤️ by <a href="https://github.com/palaksoni24">Palak</a>
 </div>
