@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💸 Expentra
+# 💸 Expentra 
 
 ### Your Smart Personal Expense Tracker
 
